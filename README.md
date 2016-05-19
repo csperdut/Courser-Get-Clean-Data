@@ -12,3 +12,4 @@ Phase 3: descriptive activity names in the data set
 Phase 4: is designed to label the data with descriptive activity names
 
 Phase 5: Creates a second, independent tidy data set with the average of each variable for each activity and each subject
+
